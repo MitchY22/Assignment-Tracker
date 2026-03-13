@@ -1,31 +1,68 @@
-# Assignment Tracker
+# Assignment Tracker Website
 
-## Overview
+A web application designed to help students stay organized by tracking assignments across multiple classes. The site provides an interactive dashboard, calendar view, and assignment management tools to help users visualize deadlines and manage coursework efficiently.
 
-Our goal was to build an assignment tracking website designed to help students stay organized and manage all their assignments for each class.
+🌐 **Live Demo**  
+https://cs272-s25.github.io/p13/
+
+---
 
 ## Features
 
-- **Dashboard**  
-  An overview of all you're upcoming assignments.
+### Dashboard
+An overview of upcoming assignments to help users quickly see what work is approaching.
 
-- **Classes Page**  
-  Add classes that you are enrolled in so that you can keep track of them.
+### Classes Page
+Allows users to add and manage the classes they are enrolled in.
 
-- **Add Assignments**  
-  Add an assignment to a specific class.
+### Add Assignments
+Users can add assignments and associate them with specific classes.
 
-- **Calendar View**  
-  Visualization of all of your assignments and when they are due.
+### Calendar View
+A visual calendar displaying assignment deadlines.
 
-- **Assignment View**  
-  A page that has all of your assignments listed.
+### Assignment View
+Displays a complete list of assignments and their associated details.
 
-- **Settings Page**  
-  Allows you to change certain aspects of the site.
+### Settings Page
+Allows users to customize aspects of the site.
 
-- **About Page**  
-  Learn more about our team and our mission.
+### About Page
+Provides information about the project and the development team.
 
-## Visit the Site
-You can visit the site here: https://cs272-s25.github.io/p13/
+---
+
+## Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript  
+- Browser **localStorage** for client-side data persistence
+
+---
+
+## My Contributions
+
+This project was developed as part of a **4-person team**. My contributions included:
+
+- Developing dynamic dashboard components that update assignment state without page reloads  
+- Implementing **localStorage persistence** to store assignments across sessions  
+- Building reusable UI components to improve usability and scalability  
+- Collaborating on the overall application structure and feature implementation  
+
+---
+
+## What I Learned
+
+- Designing interactive, event-driven web interfaces  
+- Managing client-side state using browser storage  
+- Structuring multi-page web applications  
+- Collaborating on a team software development project  
+
+---
+
+## Author
+
+**Mitchell Young**  
+Computer Science & Information Science  
+University of Wisconsin–Madison
